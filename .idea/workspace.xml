@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60b4499e-1a7d-442e-a99b-66c08427ce0d" name="Default Changelist" comment="" />
+    <list default="true" id="60b4499e-1a7d-442e-a99b-66c08427ce0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SimliTestLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SimliTestLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SimliTestLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SimliTestLogin.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="697">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
             </state>
           </provider>
         </entry>
@@ -27,10 +37,12 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/SimliTestLogin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153">
-              <caret line="3" selection-start-line="3" selection-end-line="58" selection-end-column="1" />
+            <state relative-caret-position="328">
+              <caret line="53" column="66" lean-forward="true" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="66" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#3526#3527#0" expanded="true" />
+                <element signature="e#4055#4056#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,6 +56,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -61,11 +76,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2011" />
-    <option name="y" value="-14" />
+    <option name="x" value="371" />
+    <option name="y" value="-5" />
     <option name="width" value="976" />
-    <option name="height" value="1176" />
+    <option name="height" value="998" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -90,6 +106,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -98,7 +120,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585526656695" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585553332410" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,7 +134,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SimliTestLogin.test2">
+  <component name="RunManager" selected="JUnit.SimliTestLogin.test1">
+    <configuration name="All in selenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimliTestLogin.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="selenium" />
       <option name="PACKAGE_NAME" value="" />
@@ -135,8 +165,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SimliTestLogin.test2" />
         <item itemvalue="JUnit.SimliTestLogin.test1" />
+        <item itemvalue="JUnit.All in selenium" />
+        <item itemvalue="JUnit.SimliTestLogin.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -154,46 +185,47 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SimliTestLogin_test1 - 2020.03.28 at 01h 55m 09s.xml">
+    <history-entry file="SimliTestLogin_test1 - 2020.03.30 at 00h 00m 08s.xml">
       <configuration name="SimliTestLogin.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimliTestLogin_test1 - 2020.03.28 at 01h 58m 45s.xml">
+    <history-entry file="SimliTestLogin_test1 - 2020.03.30 at 00h 00m 40s.xml">
       <configuration name="SimliTestLogin.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimliTestLogin_test1 - 2020.03.28 at 02h 04m 39s.xml">
+    <history-entry file="SimliTestLogin_test1 - 2020.03.30 at 00h 07m 48s.xml">
       <configuration name="SimliTestLogin.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimliTestLogin_test1 - 2020.03.28 at 02h 25m 18s.xml">
+    <history-entry file="SimliTestLogin_test2 - 2020.03.30 at 00h 11m 29s.xml">
+      <configuration name="SimliTestLogin.test2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_selenium - 2020.03.30 at 00h 12m 25s.xml">
+      <configuration name="All in selenium" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_selenium - 2020.03.30 at 00h 20m 35s.xml">
+      <configuration name="All in selenium" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_selenium - 2020.03.30 at 00h 22m 43s.xml">
+      <configuration name="All in selenium" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SimliTestLogin_test1 - 2020.03.30 at 00h 24m 27s.xml">
       <configuration name="SimliTestLogin.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimliTestLogin_test2 - 2020.03.28 at 02h 25m 52s.xml">
-      <configuration name="SimliTestLogin.test2" configurationId="JUnit" />
+    <history-entry file="SimliTestLogin_test1 - 2020.03.30 at 00h 25m 42s.xml">
+      <configuration name="SimliTestLogin.test1" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SimliTestLogin_test2 - 2020.03.28 at 02h 26m 52s.xml">
-      <configuration name="SimliTestLogin.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimliTestLogin_test2 - 2020.03.28 at 02h 27m 25s.xml">
-      <configuration name="SimliTestLogin.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimliTestLogin_test2 - 2020.03.28 at 02h 30m 49s.xml">
-      <configuration name="SimliTestLogin.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimliTestLogin_test2 - 2020.03.28 at 02h 33m 17s.xml">
-      <configuration name="SimliTestLogin.test2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SimliTestLogin_test2 - 2020.03.28 at 02h 34m 17s.xml">
-      <configuration name="SimliTestLogin.test2" configurationId="JUnit" />
+    <history-entry file="SimliTestLogin_test1 - 2020.03.30 at 00h 26m 55s.xml">
+      <configuration name="SimliTestLogin.test1" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1296" height="1000" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37944984" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -201,7 +233,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32981783" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39677048" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32981783" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,16 +253,18 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SimliTestLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="3" selection-start-line="3" selection-end-line="58" selection-end-column="1" />
+        <state relative-caret-position="328">
+          <caret line="53" column="66" lean-forward="true" selection-start-line="53" selection-start-column="66" selection-end-line="53" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#3526#3527#0" expanded="true" />
+            <element signature="e#4055#4056#0" expanded="true" />
           </folding>
         </state>
       </provider>
